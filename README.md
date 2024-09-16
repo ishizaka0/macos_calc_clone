@@ -1,4 +1,3 @@
-```markdown
 # macos_calc_clone
 
 macOSの電卓をv0とClaudeを使って作成しました。
